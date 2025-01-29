@@ -36,7 +36,11 @@ Test Execution Guide
 1.  npm test
     
 2.  The tests will run, and you will get the results in your terminal.
-  
+
+# DB Design
+<img width="951" alt="DataBase_design" src="https://github.com/user-attachments/assets/b69d5a17-7d81-4876-84dc-610481d9250d" />
+
+
 # API Documentation
 
 ## **Restaurants API**
