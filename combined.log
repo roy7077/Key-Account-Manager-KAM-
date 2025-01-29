@@ -180,3 +180,4 @@
 2025-01-01 20:15:20 : info: Entry Fetched SuccessFully for id 6
 2025-01-01 20:15:32 : info: Fetched all AccountPerformance for the Restaurant
 2025-01-01 20:16:17 : error: Error in LoginController
+2025-01-03 17:14:54 : info: Connected to MySQL database.

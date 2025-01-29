@@ -14,7 +14,7 @@ const tables = [
         FOREIGN KEY (restaurant_id) REFERENCES restaurants(id)
       );
     `,
-    `
+    `                                                            
       CREATE TABLE IF NOT EXISTS follow_up_calls (
         id INT AUTO_INCREMENT PRIMARY KEY,
         restaurant_id INT NOT NULL,

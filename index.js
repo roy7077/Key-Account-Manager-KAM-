@@ -8,7 +8,7 @@ const apiRoute = require('./src/routes');
 const cookieParser = require('cookie-parser')
 const fileUpload=require('express-fileupload');
 const cors = require("cors");
-// require('./src/cron/cron-job');
+require('./src/cron/cron-job');
 const createTables=require('./src/config/create-tables');
 
 app.use(express.urlencoded({ extended: false }));
